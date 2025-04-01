@@ -1,10 +1,4 @@
-
-- 👋 Hi, I’m @thereal-svien
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning **JavaScript, CSS and HTML**
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: @thereal-svien has a Discord server https://discord.com/invite/Bu64TRj5EY
-- 
+i will touch you
 
 
 <!---
